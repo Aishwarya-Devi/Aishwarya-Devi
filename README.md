@@ -1,55 +1,51 @@
-# 👋 Hi, I'm Aishwarya Devsetti
-
-## 🚀 Full Stack Developer | Java | React | AWS | Microservices
-
-I am a passionate and experienced software developer with over **5 years** of full-stack development experience across industries and technology stacks. I specialize in building scalable web applications and microservices using modern Java, Spring Boot, React.js, AWS, and micro frontend architecture.
-
----
-
-### 🛠️ Tech Stack & Skills
-
-- **Languages:** Java, JavaScript, TypeScript, C#, Python, SQL, Scala, XML
-- **Frontend:** React.js, AngularJS, Backbone.js, Vue.js, HTML5, CSS3, Bootstrap, Tailwind
-- **Backend:** Spring Boot, J2EE, Node.js, Express.js, RESTful APIs, SOAP, GraphQL
-- **Microservices & Architecture:** Micro Frontends, Webpack Module Federation, Single-SPA, Web Components
-- **DevOps & CI/CD:** Jenkins, Docker, Maven, ANT, GitHub Actions
-- **Cloud Platforms:** AWS (EC2, S3, Lambda, RDS, CloudFormation, Beanstalk, Route53, IAM, SQS, SNS)
-- **Databases:** PostgreSQL, MySQL, Oracle, MongoDB, Cassandra, Redis, CouchDB
-- **Message Queues:** Kafka, RabbitMQ, ActiveMQ
-- **Testing Tools:** JUnit, Mockito, Karma, Jasmine, Protractor, Mocha, Chai
-- **Others:** Hibernate, JSP/Servlets, XML, JSON, REST/SOAP, WebLogic, WebSphere, Tomcat
-
----
-
-### 👨‍💻 Recent Projects
-
-#### ⚡ Nissan (Oct 2024 – Present)
-- Built Single Page Applications using AngularJS, Node.js, and integrated REST APIs.
-- Deployed applications on AWS using EC2, Lambda, Beanstalk, and integrated CI/CD pipelines with Jenkins.
-- Developed scalable microservices architecture with Spring Boot and Docker.
-
-#### 🌍 Denave (Jun 2020 – Dec 2022)
-- Developed REST APIs with Python/Django and deployed via AWS EC2.
-- Built AngularJS and ReactJS dashboards with dynamic campaign rule engines.
-- Implemented event streaming with Apache Kafka and handled complex SQL operations.
-
-#### 🛡️ Black Duck (Apr 2019 – May 2020)
-- Created full-stack applications using Java/JSP, Servlets, and MySQL.
-- Built and managed desktop apps using Swing and integrated XML-based services.
-
----
-
-### 📫 Let's Connect
-
-- 📍 Hartford, CT
-- 📧 [devisettiaish@gmail.com](mailto:devisettiaish@gmail.com)
-- 📞 +1 (201) 409-5173
-- 💼 [LinkedIn](https://www.linkedin.com/in/aishwarya-devsetti) 
-- 
-
----
-
-> 👩‍🎓 *M.S. in Computer Science, University of Bridgeport (2024)*  
-> 🎓 *B.Tech in CSE, Mahatma Gandhi University, India (2019)*
-
-Thanks for visiting my profile! Let's build something amazing together. 🚀
+<h1>👋 Hi, I'm Aishwarya Devsetti  
+🚀 Full Stack Developer | Java | React | AWS | Microservices  
+I am a passionate and experienced software developer with over **5 years** of full-stack development experience across industries and technology stacks. I specialize in building scalable web applications and microservices using modern Java, Spring Boot, React.js, AWS, and micro frontend architecture.  ---  ### 🛠️ Tech Stack & Skills  - **Languages:** Java, JavaScript, TypeScript, C#, Python, SQL, Scala, XML - **Frontend:** React.js, AngularJS, Backbone.js, Vue.js, HTML5, CSS3, Bootstrap, Tailwind - **Backend:** Spring Boot, J2EE, Node.js, Express.js, RESTful APIs, SOAP, GraphQL - **Microservices & Architecture:** Micro Frontends, Webpack Module Federation, Single-SPA, Web Components - **DevOps & CI/CD:** Jenkins, Docker, Maven, ANT, GitHub Actions - **Cloud Platforms:** AWS (EC2, S3, Lambda, RDS, CloudFormation, Beanstalk, Route53, IAM, SQS, SNS) - **Databases:** PostgreSQL, MySQL, Oracle, MongoDB, Cassandra, Redis, CouchDB - **Message Queues:** Kafka, RabbitMQ, ActiveMQ - **Testing Tools:** JUnit, Mockito, Karma, Jasmine, Protractor, Mocha, Chai - **Others:** Hibernate, JSP/Servlets, XML, JSON, REST/SOAP, WebLogic, WebSphere, Tomcat  ---  ### 👨‍💻 Recent Projects  #### ⚡ Nissan (Oct 2024 – Present) - Built Single Page Applications using AngularJS, Node.js, and integrated REST APIs. - Deployed applications on AWS using EC2, Lambda, Beanstalk, and integrated CI/CD pipelines with Jenkins. - Developed scalable microservices architecture with Spring Boot and Docker.  #### 🌍 Denave (Jun 2020 – Dec 2022) - Developed REST APIs with Python/Django and deployed via AWS EC2. - Built AngularJS and ReactJS dashboards with dynamic campaign rule engines. - Implemented event streaming with Apache Kafka and handled complex SQL operations.  #### 🛡️ Black Duck (Apr 2019 – May 2020) - Created full-stack applications using Java/JSP, Servlets, and MySQL. - Built and managed desktop apps using Swing and integrated XML-based services.  ---  ### 📫 Let's Connect  - 📍 Hartford, CT - 📧 [devisettiaish@gmail.com](mailto:devisettiaish@gmail.com) - 📞 +1 (201) 409-5173 - 💼 [LinkedIn](https://www.linkedin.com/in/aishwarya-devsetti) *(Add your actual link)* - 🌐 [Portfolio / Blog](https://yourwebsite.com) *(Optional)*  ---  > 👩‍🎓 *M.S. in Computer Science, University of Bridgeport (2024)*   > 🎓 *B.Tech in CSE, Mahatma Gandhi University, India (2019)*  Thanks for visiting my profile! Let's build something amazing together. 🚀</h1>
+<p>A passionate Fullstack Developer</p>
+<h2>🚀 Languages and Tools I Use</h2>
+<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="42" height="42" /></a>
+<a target="_blank" href="https://angular.io/assets/images/logos/angular/angular.svg" style="display: inline-block;"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="42" height="42" /></a>
+<a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" style="display: inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="42" height="42" /></a>
+<a target="_blank" href="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" style="display: inline-block;"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="42" height="42" /></a>
+<a target="_blank" href="https://cdn.worldvectorlogo.com/logos/django.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
+<h2>⚡️ Where to find me</h2>
+<p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/devisetti-aishwarya-85042b192/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Aishwarya-Devi&show_icons=true&locale=en" alt="Aishwarya-Devi" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aishwarya-Devi&" alt="Aishwarya-Devi" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aishwarya-Devi&show_icons=true&locale=en&layout=compact" alt="Aishwarya-Devi" /></p>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Aishwarya-Devi" alt="Aishwarya-Devi" /></a></p>
