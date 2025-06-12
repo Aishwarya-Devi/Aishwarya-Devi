@@ -1,5 +1,6 @@
-<h1>Hi 👋, I'm  Aishwarya Devisetti</h1>
-<p>A passionate Fullstack Developer</p>
+<h1>👋 Hi, I'm Aishwarya Devsetti</h1>
+<p>🚀 Full Stack Developer | Java | React | AWS | Microservices</p>
+<p>I am a passionate and experienced software developer with over **5 years** of full-stack development experience across industries and technology stacks. I specialize in building scalable web applications and microservices using modern Java, Spring Boot, React.js, AWS, and micro frontend architecture.</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="42" height="42" /></a>
